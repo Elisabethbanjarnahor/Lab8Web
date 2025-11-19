@@ -32,3 +32,21 @@ CREATE TABLE data_barang (
   harga_jual DECIMAL(10,0),
   stok INT(4)
 );
+
+
+2. Membuat Koneksi Database (koneksi.php)
+
+Koneksi menggunakan mysqli_connect:
+
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db   = "latihan1";
+
+$conn = mysqli_connect($host, $user, $pass, $db);
+if (!$conn) {
+  echo "Koneksi gagal: " . mysqli_connect_error();
+    die();
+}
+?>

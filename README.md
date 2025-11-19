@@ -20,10 +20,10 @@ Praktikum ini bertujuan untuk mempelajari:
 
 Database dibuat melalui phpMyAdmin:
 
-CREATE DATABASE latihan1;
-USE latihan1;
+    CREATE DATABASE latihan1;
+    USE latihan1;
 
-CREATE TABLE data_barang (
+   CREATE TABLE data_barang (
   id_barang INT(10) AUTO_INCREMENT PRIMARY KEY,
   kategori VARCHAR(30),
   nama VARCHAR(30),

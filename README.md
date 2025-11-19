@@ -17,7 +17,9 @@ Praktikum ini bertujuan untuk mempelajari:
     Mengatur struktur folder pada XAMPP (htdocs)
 
 ## 🗄️ 1. Membuat Database & Tabel
+
 Database dibuat melalui phpMyAdmin:
+
 CREATE DATABASE latihan1;
 USE latihan1;
 

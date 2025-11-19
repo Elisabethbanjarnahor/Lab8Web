@@ -19,9 +19,8 @@ Praktikum ini bertujuan untuk mempelajari:
 ## 1. Membuat Database & Tabel
 Database dibuat melalui phpMyAdmin:
 
-CREATE DATABASE latihan1;
+```CREATE DATABASE latihan1;
 USE latihan1;
-
 CREATE TABLE data_barang (
   id_barang INT(10) AUTO_INCREMENT PRIMARY KEY,
   kategori VARCHAR(30),
@@ -31,5 +30,6 @@ CREATE TABLE data_barang (
   harga_jual DECIMAL(10,0),
   stok INT(4)
 );
+```
 
 

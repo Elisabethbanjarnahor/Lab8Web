@@ -5,7 +5,7 @@
 ## Matkul :Pemograman Web1
 ## Kls    :Ti.24.A5
 
-##📌 Tujuan Praktikum
+## Tujuan Praktikum
 
 Praktikum ini bertujuan untuk mempelajari:
 

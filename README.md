@@ -16,9 +16,7 @@ Praktikum ini bertujuan untuk mempelajari:
     Menampilkan data dalam bentuk tabel
     Mengatur struktur folder pada XAMPP (htdocs)
 
-
- 1. Membuat Database & Tabel
-
+## 1. Membuat Database & Tabel
 Database dibuat melalui phpMyAdmin:
 
 CREATE DATABASE latihan1;
@@ -35,20 +33,3 @@ CREATE TABLE data_barang (
 );
 
 
-
-2. Membuat Koneksi Database (koneksi.php)
-
-Koneksi menggunakan mysqli_connect:
-
-<?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "latihan1";
-
-$conn = mysqli_connect($host, $user, $pass, $db);
-if (!$conn) {
-  echo "Koneksi gagal: " . mysqli_connect_error();
-    die();
-}
-?>

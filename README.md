@@ -17,10 +17,8 @@ Praktikum ini bertujuan untuk mempelajari:
     Mengatur struktur folder pada XAMPP (htdocs)
 
 ## 🗄️ 1. Membuat Database & Tabel
-
 Database dibuat melalui phpMyAdmin:
-
-CREATE DATABASE latihan1;
+    CREATE DATABASE latihan1;
 USE latihan1;
 
 CREATE TABLE data_barang (
@@ -32,8 +30,6 @@ CREATE TABLE data_barang (
   harga_jual DECIMAL(10,0),
   stok INT(4)
 );
-
-Hasil :
 
 
 

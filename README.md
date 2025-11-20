@@ -18,7 +18,19 @@ Praktikum ini bertujuan untuk mempelajari:
 
 ## 🗄️ 1. Membuat Database & Tabel
 Database dibuat melalui phpMyA
+```CREATE DATABASE latihan1;
+USE latihan1;
 
+CREATE TABLE data_barang (
+  id_barang INT(10) AUTO_INCREMENT PRIMARY KEY,
+  kategori VARCHAR(30),
+  nama VARCHAR(30),
+  gambar VARCHAR(100),
+  harga_beli DECIMAL(10,0),
+  harga_jual DECIMAL(10,0),
+  stok INT(4)
+);
+```
 
 ##    2. Membuat Koneksi Database (koneksi.php)
 Koneksi menggunakan mysqli_connect:

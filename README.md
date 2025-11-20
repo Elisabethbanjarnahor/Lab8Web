@@ -108,6 +108,7 @@ Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 ## ❌ 6. Menghapus Data (hapus.php)
 Menghapus data barang berdasarkan ID. Setelah dihapus, halaman akan langsung kembali ke index.php.
 
+![hapus](https://github.com/Elisabethbanjarnahor/Lab8Web/blob/b5604c74d0c45c9c4de7d0ff89d548be5903c2a7/lab8web/Screenshot%202025-11-19%20201632.png)
 
 
   

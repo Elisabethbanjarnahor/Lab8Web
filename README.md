@@ -65,6 +65,8 @@ Tombol Hapus
 
 Tombol Tambah Barang
 
+![tampilan]()
+
 ## ➕ 4. Menambah Data Barang (tambah.php)
 
 Pada bagian ini, user bisa menambahkan:

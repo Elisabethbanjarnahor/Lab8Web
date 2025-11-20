@@ -85,6 +85,7 @@ Upload Gambar
 
 Data yang diinput akan disimpan dalam database.
 
+![tamabah](https://github.com/Elisabethbanjarnahor/Lab8Web/blob/867454e552a592c26a536b257adf15113c82a467/lab8web/Screenshot%202025-11-19%20201803.png)
 
 ## ✏️ 5. Mengubah Data (ubah.php)
 

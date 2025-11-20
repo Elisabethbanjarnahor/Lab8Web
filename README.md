@@ -65,7 +65,7 @@ Tombol Hapus
 
 Tombol Tambah Barang
 
-![tampilan]()
+![tampilan](https://github.com/Elisabethbanjarnahor/Lab8Web/blob/30fd2b5feb54aa3f93e5aad2f37a558186a8b5f0/lab8web/Screenshot%202025-11-19%20113549.png)
 
 ## ➕ 4. Menambah Data Barang (tambah.php)
 

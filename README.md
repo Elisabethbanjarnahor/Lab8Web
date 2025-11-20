@@ -103,6 +103,7 @@ Gambar (opsional)
 
 Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 
+![ubah](https://github.com/Elisabethbanjarnahor/Lab8Web/blob/13b6dd8748852c4d78287e95b3328095f4165b2b/lab8web/Screenshot%202025-11-19%20201542.png)
 
 ## ❌ 6. Menghapus Data (hapus.php)
 Menghapus data barang berdasarkan ID. Setelah dihapus, halaman akan langsung kembali ke index.php.
